@@ -1,4 +1,4 @@
-![amigo-secreto](https://github.com/user-attachments/assets/ca21fe20-0a4c-4e12-85d8-1e5f52109780)
+![amigo-secreto](https://github.com/user-attachments/assets/39bde1b2-2ef5-4870-abda-042bbad69379)
 
 
 <em> # Comenzamos a trabajar en este challenger </em>
@@ -16,7 +16,7 @@ Funcionalidades (para este challenger)
 
 
 
-![Sin título](https://github.com/user-attachments/assets/f43ed7ab-da6d-4279-8206-1a1002ae873c)
+![1](https://github.com/user-attachments/assets/ae580803-b3d7-43fe-bab6-efe74f53af3f)
 
 
 
@@ -24,7 +24,7 @@ Funcionalidades (para este challenger)
 
 
 
-![Sin título](https://github.com/user-attachments/assets/59f8cdbc-6d1e-41e0-8433-935287a4d69b)
+![2](https://github.com/user-attachments/assets/4c5e1428-958c-4b1d-8dc0-51b6547527ef)
 
 
 
@@ -32,7 +32,7 @@ Funcionalidades (para este challenger)
 
 
 
-![Sin título](https://github.com/user-attachments/assets/3c19e692-e86a-49e1-9e8f-cc2afe46010c)
+![3](https://github.com/user-attachments/assets/3b248f66-9c67-4ea8-88ac-c9ae0d29e661)
 
 
 
@@ -40,8 +40,7 @@ Funcionalidades (para este challenger)
 
 
 
-![Sin título](https://github.com/user-attachments/assets/837ccf69-bf6e-445c-a57d-732049ee3cf8)
-
+![4](https://github.com/user-attachments/assets/d5ed17a8-f045-45c9-868e-a23ffcca0afe)
 
 
 
@@ -49,7 +48,8 @@ Esta etapa del challenger fue la que me dejo varias horas atorado, habiendo echo
 una alternativa para poder resolverlo por medio de paginas y con la ayuda de mis compañeros...
 
 
-![Sin título](https://github.com/user-attachments/assets/956a0820-4d08-430f-a21e-b84eac3fbebb)
+
+![5](https://github.com/user-attachments/assets/a1cfb512-cfc3-4199-b9fc-8b70d082b276)
 
 
 
@@ -58,20 +58,18 @@ Aca quiero remarcar que al principio agregue una variable llamada sorteo, en el 
 let sorteo = document.getElementById('resultado');
 
 
-![Sin título](https://github.com/user-attachments/assets/3ecdce08-71c5-4376-9eec-d47791eb421d)
+
+![6](https://github.com/user-attachments/assets/9bae94fd-b8e0-4b35-b29e-171dbfded0a0)
 
 
 
-Con esto el programa funciona segun lo establecido con las lo pedido en la actividadm dejando prueba de la misma a continuacion.
-
-
-![Sin título](https://github.com/user-attachments/assets/29864728-4988-4f16-812d-0119b9bd0eff)
+Con esto el programa funciona segun lo establecido con las lo pedido en la actividadm dejando prueba de la misma a continuacion. Como agregado final decidi darle un toque personale en el diseño de la página, poniendo colores y imagen nueva en este proyecto.
 
 
 
-Como agregado final decidi darle un toque personale en el diseño de la página, poniendo colores y imagen nueva en este proyecto
+![resultado final](https://github.com/user-attachments/assets/7bf55888-2054-44ba-acef-62b0cc040a5d)
 
 
-![Sin título](https://github.com/user-attachments/assets/c89fd310-5aed-4efc-a917-1bc792402d26)
+
 
 (ultima actualizazion 16/03)
